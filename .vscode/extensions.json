@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "nickolay.google-apps-script-highlighter",
+    "nickolay.google-apps-script-snippets",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "ritwickdey.liveserver",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag"
+  ],
+  "unwantedRecommendations": []
+}
